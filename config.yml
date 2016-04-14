@@ -1,0 +1,5 @@
+name: カスタムログインプラグイン
+code: CustomLogin
+version: 1.0.0
+service:
+ - CustomLoginServiceProvider
